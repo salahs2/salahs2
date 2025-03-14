@@ -23,8 +23,8 @@
 - Created **RESTful APIs** for media content with user authentication & optimized database queries in MongoDB  
 
 ---
-
 ### 📫 Contact
 - 📧 **Email:** [s.salahs1e@gmail.com](mailto:s.salahs1e@gmail.com)  
 - 🔗 **GitHub:** [github.com/salahs2](https://github.com/salahs2)  
 - 🌐 **Portfolio:** [salahs2.github.io/3d-website/](https://salahs2.github.io/3d-website/)  
+- 📝 **Qualifications:** [Resume](https://github.com/salahs2/Resume/blob/main/salah%20salah.pdf)
