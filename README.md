@@ -1,8 +1,5 @@
-# Hey there, I'm Salah<img src="https://raw.githubusercontent.com/twitter/twemoji/gh-pages/svg/1f44b-1f3ff.svg" width="30px"> 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/salahs2?theme=dark&font=Tiro%20Devanagari%20Sanskrit" alt="LeetCode Stats" width="45%">
-  <img align="right" src="https://github-readme-stats-seven-pink-91.vercel.app/api?username=salahs2&show_icons=true&theme=dark&hide=contribs,prs" alt="GitHub Stats" width="45%">
-</p>
+# Hey there, I'm Salah<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+
 
 ### 🎓 Education
 **McMaster University**  
