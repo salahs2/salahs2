@@ -26,4 +26,4 @@
 ### 📫 Contact
 - 📧 **Email:** [s.salahs1e@gmail.com](mailto:s.salahs1e@gmail.com)  
 - 🔗 **GitHub:** [github.com/salahs2](https://github.com/salahs2)  
-- 🌐 **Portfolio:** *being revamped*
+- 🌐 **Portfolio:** [salahs2.github.io/](https://salahs2.github.io/)
