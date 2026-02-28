@@ -14,6 +14,11 @@
 ---
 
 ### 🏆 Projects
+#### **[Baymax - AI Triage Agent](https://baymax-ten-amber.vercel.app/)**
+- Production-ready AI chat assistant that leverages **Google Gemini** to provide structured, context-aware conversational responses for symptom triage. 
+- The system demonstrates full-stack AI integration, scalable frontend architecture, and cloud deployment using a serverless architecture.
+
+
 #### **[NBA Rookie of The Year Dashboard](https://github.com/salahs2/NBA-RoTY-Dashboard)**
 - Built an **ML pipeline using Scikit-Learn’s Random Forest Classifier** (95% accuracy) to predict NBA Rookie of the Year  
 - **Scraped NBA rookie draft data** with BeautifulSoup + HTTP Requests, consolidating into a Pandas DataFrame  
@@ -25,5 +30,4 @@
 ---
 ### 📫 Contact
 - 📧 **Email:** [s.salahs1e@gmail.com](mailto:s.salahs1e@gmail.com)  
-- 🔗 **GitHub:** [github.com/salahs2](https://github.com/salahs2)  
 - 🌐 **Portfolio:** [salahs2.github.io/](https://salahs2.github.io/)
